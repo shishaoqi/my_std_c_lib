@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+gccs
+*.[ado]
+*/*.[ado]
+*/*/*.[ado]
+
